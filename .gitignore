@@ -10,7 +10,6 @@
 
 # Executables
 *.exe
-*.vi linguist-detectable=true
 
 # Metadata
 *.aliases
