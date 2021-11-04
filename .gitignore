@@ -1,7 +1,6 @@
 # Libraries
 *.lvlibp
 *.llb
- *.vi linguist-language=LabVIEW
  
 # Shared objects (inc. Windows DLLs)
 *.dll
